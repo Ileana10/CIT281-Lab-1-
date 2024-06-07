@@ -16,4 +16,5 @@
   + Postman
 
 **What I learned from this Lab**
+
   I learned how to add and use the extensions on Visual Studio code. I also learned how to use the keyboard shortcuts and terminal/shell commands. Lastly, I learned how to Create a node.js Server-side JavaScript file. ![Lab 1 snapshot](https://github.com/Ileana10/CIT281-Lab-1-/assets/169213876/fb94b1c6-e310-4689-8934-493dbfe301a3)
