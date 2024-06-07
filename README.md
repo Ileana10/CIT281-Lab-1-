@@ -1,5 +1,6 @@
-CIT 281 Lab 1
-Purpose of the lab: 
+**CIT 281 Lab 1**
+  This background color will be #F0F8FF
+**Purpose of the lab**
   This lab showed us how to install, set up, and use the software tools required for this class. It also allowed us to practice terminal/shell commands and keyboard shortcuts. To create our first Node.js server-side JavaScript file. 
 Technologies used
   Chrome
